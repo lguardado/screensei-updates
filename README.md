@@ -1,2 +1,1 @@
-# screensei-updates
-Updates for ScreenSei screen recording app
+# ScreenSei update binaries (Sparkle)
